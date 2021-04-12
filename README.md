@@ -40,5 +40,5 @@ It performs multiple tasks such as
 3.  Landmarks detection
 
 ## VGGFace : Pretrained model
-It is used to extract facial features and trained over 3.3 M images of 9000 famous celebrities
+It is used to extract facial features and trained over 3.3M images of 9000 famous celebrities
 
