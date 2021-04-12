@@ -32,5 +32,11 @@ Identifying facial features from photo, video or live camera and comparing them 
 4.  Criminal Investigation
 5.  Pension and Visa Verification (Especially to make sure the person is alive)
 
+## MTCNN : Multi Task Cascaded CNN
+It performs multiple tasks such as 
+1.  Face classification
+2.  BoudingBox regression
+3.  Landmarks detection
+
 
 
