@@ -34,12 +34,11 @@ Identifying facial features from photo, video or live camera and comparing them 
 
 ## MTCNN : Multi Task Cascaded CNN
 
-## VGGFace : Pretrained model
-It is used to extract facial features and trained over 3.3 M images of 9000 famous celebrities
 It performs multiple tasks such as 
 1.  Face classification
 2.  BoudingBox regression
 3.  Landmarks detection
 
-
+## VGGFace : Pretrained model
+It is used to extract facial features and trained over 3.3 M images of 9000 famous celebrities
 
